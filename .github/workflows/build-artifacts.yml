@@ -6,7 +6,7 @@ env:
 on:
   push:
     branches:
-      - 'susfs'
+      - 'dev'
     paths-ignore:
       - '.github/**'
   workflow_dispatch:
